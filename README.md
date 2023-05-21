@@ -7,7 +7,7 @@ Generated using [Theme Studio](https://themes.vscode.one/theme/jjxyz/qR9dnyAe) w
 
 ## Preview
 
-![Preview](https://github.com/JaMo42/DarkSlateGray-theme/blob/main/preview.png)
+![Preview](https://raw.githubusercontent.com/JaMo42/DarkSlateGray-theme/main/preview.png)
 
 ## Building
 
