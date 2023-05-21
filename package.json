@@ -1,0 +1,33 @@
+{
+  "name": "darkslategray-theme",
+  "displayName": "DarkSlateGray",
+  "publisher": "Jakob Mohrbacher",
+  "description": "A theme based on Jonathan Blows emacs theme",
+  "version": "0.1.4",
+  "license": "Unlicense",
+  "repository": "https://github.com/JaMo42/DarkSlateGray-theme",
+  "scripts": {
+    "prestart": "tsc index.ts",
+    "start": "node index.js"
+  },
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkSlateGray",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.10",
+    "typescript": "^2.2.1",
+    "vscode-theme-generator": "*"
+  }
+}

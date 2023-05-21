@@ -1,0 +1,8 @@
+# Ignore
+**
+
+# Keep
+!LICENSE
+!README.md
+!theme.json
+!package.json
