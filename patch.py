@@ -16,7 +16,9 @@ ADDITIONS = {
 SEMANTIC_TOKEN_COLORS = {
     "enumMember": "#8cde94",
     "formatSpecifier": "#6cd2b9",
-    "operator": "#a08C73",
+    "operator": "#a08c73",
+    #"method": "#c1d1e3",
+    "macro": "#c1d1e3",
 }
 
 def _remove_italics(t):

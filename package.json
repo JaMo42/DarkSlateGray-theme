@@ -3,7 +3,7 @@
   "displayName": "DarkSlateGray",
   "publisher": "Jakob Mohrbacher",
   "description": "A theme based on Jonathan Blows emacs theme",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "Unlicense",
   "repository": "https://github.com/JaMo42/DarkSlateGray-theme",
   "scripts": {
